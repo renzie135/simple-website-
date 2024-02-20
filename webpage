@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Home</title>
+	</head>
+	<body background="content://com.android.externalstorage.documents/tree/primary%3AMy%20webpage%20/document/primary%3AMy%20webpage%20%2Fabstract-pool-water-surface-background-with-sun-light-reflection_74190-8510.jpg">
+<font color=blue
+<h1 align=center>COMPUTER COLLEGE</h1>
+		</font>
+<hr>
+<center >
+    <table border=5 bgcolor=lightgray width=50%>
+    <th><a href="academia.html">ACADEMICS</a></th>
+    <th><a href="admin.html">ADMISSIONS</a></th>
+    <th><a href="lab.html">LABORATORY</a></th>
+    <th><a href="about.html">ABOUT US</a></th>
+    </table>
+</center>
+<hr>
+<center>
+     <table border=5 bgcolor=black cellpadding=10 width=70%>
+         <td>
+             <marquee behavior="scroll" direction="left">
+             <img src="content://com.android.externalstorage.documents/tree/primary%3AMy%20webpage%20/document/primary%3AMy%20webpage%20%2F1697978786021.jpg" height=400>
+             <img src="content://com.android.externalstorage.documents/tree/primary%3AMy%20webpage%20/document/primary%3AMy%20webpage%20%2F1696206466549.jpg" height=400>
+             <img src="content://com.android.externalstorage.documents/tree/primary%3AMy%20webpage%20/document/primary%3AMy%20webpage%20%2F1704420867842.jpg" height=400>
+             <img src="content://com.android.externalstorage.documents/tree/primary%3AMy%20webpage%20/document/primary%3AMy%20webpage%20%2F1705913349967.jpg" height=400>
+      </marquee>
+         </td>
+</center>
+	</body>
+</html>
+   
+   
+   
+
